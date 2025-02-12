@@ -6,4 +6,4 @@
 
 ## Projects
 
-![Histogram](assets/histogram-example-2.png) 
+![Histogram](assests/histogram-example-2.png) 
