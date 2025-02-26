@@ -1,6 +1,3 @@
-## Contact
-- **LinkedIn:** [www.linkedin.com/in/davidmcgowan-rittech](https://www.linkedin.com/in/davidmcgowan-rittech)
-
 ## Top Skills
 - Power BI
 - Python
@@ -30,3 +27,7 @@ I’m a seasoned Data Scientist with a strong background in Business Intelligenc
 ## Education
 ### BPP University
 **Bachelor of Science - BS, Data Science** (January 2025 - April 2027)
+
+## Links
+- **LinkedIn:** [My Profile](https://www.linkedin.com/in/davidmcgowan-rittech)
+
