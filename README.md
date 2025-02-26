@@ -31,5 +31,5 @@ I’m a seasoned Data Scientist with a strong background in Business Intelligenc
 **Bachelor of Science - BS, Data Science** (January 2025 - April 2027)
 
 ## Links
-- **LinkedIn:** [My Profile](https://www.linkedin.com/in/davidmcgowan-rittech)
+- **LinkedIn:** [My Profile](https://www.linkedin.com/in/dave-mcgowan)
 
