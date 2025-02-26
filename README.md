@@ -1,26 +1,32 @@
-# David's CV
-__put some words in here about myself__
+## Contact
+- **LinkedIn:** [www.linkedin.com/in/davidmcgowan-rittech](https://www.linkedin.com/in/davidmcgowan-rittech)
 
-### Skills
-_Maybe add in skills that I have in here e.g. Power BI, Excel Python etc._
+## Top Skills
+- Power BI
+- Python
+- SQL
+- Microsoft Excel
+- VBA
+- Microsoft Access
+- Business Objects
 
-### Qualifications
-_Go with the qualifications here_  
-* Working towards Data Science BSc *etc*  
-* Data Analyst Level 4  
-* Power BI Data Analyst _get MS code and add here_  
+## Certifications
+- Working towards Data Science BSc  
+- Data Analyst Level 4 
+- Microsoft Certified: Power BI Data Analyst Associate
+- Microsoft Project Server: Administration
 
-## Work Experience
-*do an overview of roles, but maybe then link to LinkedIn profile*  
-[This could be my LinkedIn profile](https://www.google.com "Find me on LinkedIn")
+## Summary
+I’m a seasoned Data Scientist with a strong background in Business Intelligence. I'm great at using my analytical skills and attention to detail to get things done. I've got a lot of experience with System Administration and creating data-driven reports, always aiming to make business processes better. I know how to use advanced IT and analytical techniques to improve efficiency, ensure compliance, and save costs. I work well with teams across different areas to come up with innovative solutions and improvements. I’m committed to creating a collaborative environment where everyone can grow professionally and feel appreciated for their contributions.
+
+## Selected Working Experience
+
+- **Procurement Data Analyst** (January 2022 - Present)
+- **PMO Data Analyst** (August 2015 - February 2025)
+- **Financial Information Assistant** (June 2003 - April 2008)
+- **Assistant Management Accountant** (July 2002 - June 2003)
+
 
 ## Education
-If I have the qualifications up there I probably don't need the education down here  
-spaces are important  
-for  
-carriage  
-returns
-
-## Projects
-
-![Histogram](assests/histogram-example-2.png) 
+### BPP University
+**Bachelor of Science - BS, Data Science** (January 2025 - April 2027)
