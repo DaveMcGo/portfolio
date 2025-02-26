@@ -1,4 +1,4 @@
-#My Portolio
+# My Portolio
 
 ## Top Skills
 - Power BI
