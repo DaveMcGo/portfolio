@@ -16,7 +16,11 @@
 - Microsoft Project Server: Administration
 
 ## Summary
-I’m a seasoned Data Scientist with a strong background in Business Intelligence. I'm great at using my analytical skills and attention to detail to get things done. I've got a lot of experience with System Administration and creating data-driven reports, always aiming to make business processes better. I know how to use advanced IT and analytical techniques to improve efficiency, ensure compliance, and save costs. I work well with teams across different areas to come up with innovative solutions and improvements. I’m committed to creating a collaborative environment where everyone can grow professionally and feel appreciated for their contributions.
+I am a seasoned Data Analyst with over 20 years of experience in financial and project-related data within the education sector. Currently, I work as a procurement data analyst, making sense of complex data for non-technical users. My journey in data science includes a Level 4 Data Analyst apprenticeship and a Level 6 Data Scientist apprenticeship degree.
+
+I am passionate about data exploration, coding, and database engineering, and I excel at creating data-driven reports to improve business processes. My expertise in System Administration and advanced analytical techniques helps enhance efficiency, ensure compliance, and save costs.
+
+I collaborate effectively with teams to develop innovative solutions and drive our organisation's ambition to become data-driven. By sharing my knowledge, I aim to empower colleagues to uncover valuable data insights and succeed in a data-centric world. Together, we can unlock the full potential of our data and drive meaningful progress.
 
 ## Selected Working Experience
 
