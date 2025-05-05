@@ -4,8 +4,8 @@
 - Power BI
 - Python
 - SQL
-- Microsoft Excel
 - VBA
+- Microsoft Excel
 - Microsoft Access
 - Business Objects
 
@@ -21,6 +21,18 @@ I am a seasoned Data Analyst with over 20 years of experience in financial and p
 I am passionate about data exploration, coding, and database engineering, and I excel at creating data-driven reports to improve business processes. My expertise in System Administration and advanced analytical techniques helps enhance efficiency, ensure compliance, and save costs.
 
 I collaborate effectively with teams to develop innovative solutions and drive our organisation's ambition to become data-driven. By sharing my knowledge, I aim to empower colleagues to uncover valuable data insights and succeed in a data-centric world. Together, we can unlock the full potential of our data and drive meaningful progress.
+
+## Selected Projects
+
+
+
+| Project | Description | Preview |
+|:---|:---|:---:
+| <a href="https://github.com/DaveMcGo/FIFA-2022-Births/blob/main/README.md">Exploring Footballer Births Through Data Science</a> | In this project, I looked into whether the birth month of footballers has any impact on their chances of becoming professionals.  | <a href="https://github.com/DaveMcGo/FIFA-2022-Births/blob/main/README.md"><img src="https://raw.githubusercontent.com/DaveMcGo/FIFA-2022-Births/main/images/FIFA_2022_births_per_month_EandW.png" alt="Exploring Footballer Births Through Data Science" width="350" ></a> 
+
+
+
+
 
 ## Selected Working Experience
 
